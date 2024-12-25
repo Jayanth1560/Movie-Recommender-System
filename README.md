@@ -23,7 +23,7 @@ After running the application, open your web browser and navigate to the local s
 
 
 ## To run :
-- use cmd :"python -m streamlit run app.py" in cmd prompt.
+- use cmd :"python -m streamlit run app.py" in cmd prompt to run the project.
 
 
 ![WhatsApp Image 2024-12-25 at 10 41 43_377a9e83](https://github.com/user-attachments/assets/f7799022-d2e9-47cf-a3cf-3bde5fe8f7eb)
